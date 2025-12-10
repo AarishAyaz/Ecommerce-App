@@ -1,6 +1,6 @@
 import ProductCard from "./ProductCard";
 import LaptopImage from "../assets/Laptop.jpg";
-import Smartwatch from '../assets/Smartwatch.jpg'
+import Smartwatch from '../assets/smartwatch.jpg'
 import mobile from '../assets/mobilephone.jpg'
 import ac from '../assets/ac.jpg'
 
